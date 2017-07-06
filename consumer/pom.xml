@@ -31,10 +31,10 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>com.linyoulin.dubbo-test</groupId>
-            <artifactId>api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+    <dependency>
+        <groupId>com.linyoulin.dubbo-test</groupId>
+        <artifactId>api</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
+</dependencies>
 </project>

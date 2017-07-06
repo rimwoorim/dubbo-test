@@ -1,6 +1,6 @@
 package com.linyoulin.dubbotest.service.impl;
 
-import com.linyoulin.dubbotest.IHelloService;
+import com.linyoulin.dubbotest.service.IHelloService;
 
 /**
  * Created by linyoulin on 2017/7/5.
